@@ -12,18 +12,22 @@
 
 - **Data Science and Business Analytics**:
   <div>
-    <img src="https://img.shields.io/badge/SQL-246FDB.svg?logo=sql&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/SQL-246FDB.svg?logo=sql&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/microsoft%20excel-217346.svg?logo=microsoftexcel&logoColor=white&style=for-the-badge">
+    <p><b>Python libraries:</b></p>
     <img src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/matplotlib-3776AB.svg?logo=matplotlib&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/SciPy-8CAAE6.svg?logo=scipy&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/seaborn-3F4F75.svg?logo=seaborn&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/Scikit%20learn-F7931E.svg?logo=scikitlearn&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?logo=apachespark&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/tensor%20flow-FF6F00.svg?logo=tensorflow&logoColor=white&style=for-the-badge">
   </div>
 
-- **Visualization**:
+- **Data Visualization**:
   <div>
     <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?logo=powerbi&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white&style=for-the-badge">
