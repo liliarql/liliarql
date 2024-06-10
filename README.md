@@ -10,10 +10,6 @@
   <p><b>Here are some of the skills and tools I work with:</b></p>
 </div>
 
-<div>
-  <b>My Skills</b>
-</div>
-
 - **Data Science and Business Analytics**:
   <div>
     <img src="https://img.shields.io/badge/SQL-246FDB.svg?logo=sql&logoColor=white&style=for-the-badge">
