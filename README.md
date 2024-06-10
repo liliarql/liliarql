@@ -13,6 +13,7 @@
 - **Data Science and Business Analytics**:
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/SQL-246FDB.svg?logo=sql&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/microsoft%20excel-217346.svg?logo=microsoftexcel&logoColor=white&style=for-the-badge">
     <p><b>Python libraries:</b></p>
