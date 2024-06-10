@@ -3,11 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="profile.jpg" alt="Lilia's Profile Picture" width="200">
+  <img src="https://github.com/liliarql/liliarql/blob/main/Lilia's%20profile%20picture.png" alt="Lilia's Profile Picture">
 </div>
-
+<div>
+</div>
 <div align="center">
-  <p>Welcome to my GitHub profile! I am passionate about Data Science, Business Analytics, and self-taught Front-End Development. Here are some of the skills and tools I work with:</p>
+  <p><b>Here are some of the skills and tools I work with:</b></p>
 </div>
 
 <div>
