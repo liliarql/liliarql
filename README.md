@@ -24,8 +24,11 @@
     <img src="https://img.shields.io/badge/SciPy-8CAAE6.svg?logo=scipy&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/seaborn-3F4F75.svg?logo=seaborn&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/Scikit%20learn-F7931E.svg?logo=scikitlearn&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/xgboost-E34F26.svg?logo=xgboost&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/LightGBM-F7931E.svg?logo=LightGBM&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?logo=apachespark&logoColor=white&style=for-the-badge">
-    <img src="https://img.shields.io/badge/tensor%20flow-FF6F00.svg?logo=tensorflow&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Beautiful%20Soup-FF6F00.svg?logo=beautiful-soup&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/StatsModels-F37626.svg?logo=StatsModels&logoColor=white&style=for-the-badge">
   </div>
 
 - **Data Visualization**:
@@ -53,9 +56,9 @@
 
 - **Front-End Development**:
   <div>
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge">
-    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge">
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge">
   </div>
 
 <div>
