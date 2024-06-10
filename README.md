@@ -3,10 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/liliarql/liliarql/blob/main/Lilia's%20profile%20picture.png" alt="Lilia's Profile Picture">
+  <img src=https://github.com/liliarql/liliarql/blob/main/Lilia's%20profile%20picture.png alt="Lilia's Profile Picture">
 </div>
-<div>
-</div>
+<br>
 <div align="center">
   <p><b>Here are some of the skills and tools I work with:</b></p>
 </div>
