@@ -63,10 +63,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge">
   </div>
 
-<div>
-  <h3><b>Let's Connect..!</b></h3>
-</div>
-<br>
+<div><h3><b>Let's Connect..!</b></h3></div>
 <div align="center">
   <a href="https://www.linkedin.com/in/lilia-quispe-lopez/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin%20-%2300acee.svg?logo=linkedin&logoColor=white&color=405DE6&style=for-the-badge" alt="linkedin" style="margin-bottom: 5px;"/>
