@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/seaborn-3F4F75.svg?logo=seaborn&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white&style=for-the-badge">
     <p><b>Big Data Processing:</b></p>
-    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?logo=apachespark&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Spark-E25A1C.svg?logo=apachespark&logoColor=white&style=for-the-badge">
     <p><b>Web Scraping:</b></p>
     <img src="https://img.shields.io/badge/Beautiful%20Soup-FF6F00.svg?logo=beautiful-soup&logoColor=white&style=for-the-badge">
   </div>
